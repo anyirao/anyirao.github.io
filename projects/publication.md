@@ -7,6 +7,20 @@ permalink: /publication/
 <!-- **Full Publication List** -->
 **FULL PUBLICATAION LIST**
 
+
+[CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboration]()\\
+Zheng Wei, Hongtao Wu, Lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, **Anyi Rao**\\
+User Interface Software and Technology (**UIST**), 2025 \\
+[[Paper]]() [[Webpage]]()
+
+[IC-Light: Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport]()\\
+Lvmin Zhang, **Anyi Rao**, Maneesh Agrawala\\
+International Conference on Learning Representations (**ICLR**), 2025 <span style="color:orange">*Oral*
+ \\
+[[Paper]]() [[Webpage]](https://github.com/lllyasviel/IC-Light)
+
+
+
 [Cinematic Behavior Transfer via NeRF-based Differentiable Filming]()\\
 **Anyi Rao**, Xuekun Jiang*, Jingbo Wang, Dahua Lin, Bo Dai\\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024 \\
@@ -15,7 +29,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024 
 
 [Adding Conditional Control to Text-to-Image Diffusion Models]("https://arxiv.org/abs/2302.05543")\\
 Lvmin Zhang, **Anyi Rao**, Maneesh Agrawala\\
-IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023 <span style="color:orange">*Marr Prize: Best Paper Award*</span>\\
+IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023 <span style="color:orange">*Marr Prize: Best Paper Award*\\
 [[Paper]](https://arxiv.org/abs/2302.05543) [[Webpage]](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
 
 
@@ -73,6 +87,17 @@ IEEE Transactions on Multimedia (**TMM**), 2021 \\
 
 
 
+[Light-A-Video: Training-free Video Relighting via Progressive Light Fusion]()\\
+Yujie Zhou, Jiazi Bu, Pengyang Ling, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zhang, Yuhang Cao, **Anyi Rao**, Jiaqi Wang, Li Niu\\
+IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025\\
+[[Paper]]() [[Webpage]]()
+
+[VideoRepainter: Keyframe-Guided Creative Video Inpainting]()\\
+Yuwei Guo, Ceyuan Yang, **Anyi Rao**, Chenlin Meng, Omer Bar-Tal, Shuangrui Ding, Maneesh Agrawala, Dahua Lin, Bo Dai\\
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 \\
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Keyframe-Guided_Creative_Video_Inpainting_CVPR_2025_paper.pdf) [[Webpage]](https://guoyww.github.io/projects/VideoRepainter/)
+
+
 [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning]()\\
 Yuwei Guo, Ceyuan Yang, **Anyi Rao**, Zhengyang Liang, Yaohui Wang, Yu Qiao, Maneesh Agrawala, Dahua Lin, Bo Dai
 \\
@@ -102,7 +127,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2023\\
 
 [Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences]()\\
 Yujie Zhou, Haodong Duan, **Anyi Rao**, Bing Su, Jiaqi Wang \\
-AAAI Conference on Artificial Intelligence (**AAAI**), 2023 <span style="color:orange">*Oral*</span>
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023 <span style="color:orange">*Oral*
  \\
 [[Paper]](https://arxiv.org/abs/2302.09018) [[Code]](https://github.com/YujieOuO/PSTL)
 
@@ -131,7 +156,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021 \\
 
 [MovieNet: A Holistic Dataset for Movie Understanding]()\\
 Qingqiu Huang, Yu Xiong, **Anyi Rao**, Jiaze Wang, Dahua Lin\\
-European Conference on Computer Vision (**ECCV**), 2020 <span style="color:orange">*Spotlight*</span> \\
+European Conference on Computer Vision (**ECCV**), 2020 <span style="color:orange">*Spotlight* \\
 [[Paper]](https://arxiv.org/abs/2007.10937) [[Webpage]](https://movienet.github.io/projects/eccv20movienet.html) [[Supplements]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490681-supp.pdf) [[Code]](https://github.com/movienet/movienet-tools)
 
 
