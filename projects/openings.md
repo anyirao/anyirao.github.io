@@ -6,13 +6,19 @@ permalink: /openings/
 
 ### Who will you work with? 🔥
 
-Anyi Rao is an assistant professor at the Hong Kong University of Science and Technology, leading a lab, recruiting Ph.D. students (anytime), research assistants (anytime), and visiting students (anytime). 
+Anyi Rao is an assistant professor at the Hong Kong University of Science and Technology, leading the Multimedia Creativity Lab (MMLab@HKUST) and associate directing HKUST Media Intelligence Research Center, 
+recruiting Ph.D. students (anytime), research assistants (anytime), and visiting students (anytime). 
 
-He was a postdoctoral researcher at Stanford University. His research focuses on human-centered reliable intelligent vision and media tools, such as multimedia (text, images, video, design graphics, audio) editing, creation, and film analysis, aiming to enhance collaboration between artificial intelligence and humans, and unleash human creativity and productivity. The research spans computer vision, human-computer interaction, graphics, and multimedia, with flexible directions, aiming to create wonderful things together!
+He was a postdoctoral researcher at Stanford University. 
+He studies human AI for creativity, with focuses on the understanding, editing and creation of art, media and film, aiming to build human-AI collaborative intelligence and unleash human creativity and productivity. 
+The research spans computer vision, human-computer interaction, graphics, and multimedia, with flexible directions, aiming to create wonderful things together!
 
-His work includes ControlNet, AnimateDiff, MovieNet, Virtual Studio, and IC-Light, and he has received one of the highest honors in computer vision research, the Marr Prize (Best Paper Award at ICCV). He organized the Creative Visual Content Workshop at CVPR25, CVPR24, ICCV23, ECCV22, ICCV21, the Generative Models Course at SIGGRAPH24, curated 2025 Hong Kong HKUST AI Film Festival and 2023 Paris ShortFest AI Film Festival. He also serves as a co-chair of UIST24, UIST25, VINCI25, CVM25 and area chair (TPC) of SIGGRAPH Asia25.
-He received his Ph.D. from CUHK MMLab and has conducted research at the University of Toronto, Vector Institute, Meta Reality Lab, and the University of Hong Kong. He has published over 30 top academic papers, with over 8000 Google Scholar citations. He has hosted the Brown Media Innovation Research Fund, Amazon Video Research Fund, and won the Rising Star Award at the World Artificial Intelligence Conference, Paper Digest's Most Influential Paper Award, Hong Kong Ph.D. Fellowship, SenseTime Scholarship, and National Scholarship. 
-He gave keynote at the Golden Rooster Film Festival, the Shanghai Television Magnolia Festival, was a guest on Shanghai TV Financial Channel, and spoke at the Night Talk of the World Artificial Intelligence Conference WAIC2024.
+His work includes ControlNet, AnimateDiff, MovieNet, Virtual Studio, and IC-Light, and he has received one of the highest honors in computer vision research, the Marr Prize (Best Paper Award at ICCV). 
+He organized the SIGGRAPH/CVPR/ICCV/ECCV Creative Visual Content Workshop and the SIGGRAPH Generative Models Course, curated 2025 Hong Kong HKUST AI Film Festival and 2023 Paris ShortFest AI Film Festival. 
+He also serves as a co-chair of UIST24, UIST25, VINCI25, CVM25 and area chair (TPC) of SIGGRAPH Asia25.
+He received his Ph.D. from CUHK MMLab and has conducted research at the University of Toronto, Vector Institute, Meta Reality Lab, and the University of Hong Kong. He has published over 30 top academic papers, with over 9000 Google Scholar citations. 
+He has hosted the Brown Media Innovation Research Fund, Amazon Video Research Fund, been featured in Forbes 30 Under 30 Asia 2025 List, and won the Rising Star Award at the World Artificial Intelligence Conference 2024. 
+He gave keynote at the Golden Rooster Film Festival, the Shanghai Television Magnolia Festival, was featured by Shanghai TV Financial Channel, Hong Kong Cable Television.
 
 ### What you can gain? 👍
 
