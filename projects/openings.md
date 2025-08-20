@@ -40,7 +40,7 @@ What do you need?
 
 If you are interested, please fill out this 
 [2026 Google Form](https://forms.gle/RVXjHiJxC1SzKN6x6) for 2026 intake,
-[2025 Google Form](https://forms.gle/bxQMUzWE4J91Nnn88) for 2025 intake,
+<!-- [2025 Google Form](https://forms.gle/bxQMUzWE4J91Nnn88) for 2025 intake, -->
  and send an email to [anyirao@outlook.com](mailto:anyirao@outlook.com). The email title should be "School-Name-PhD/RA/Visiting Student." The email content can briefly describe your **motivation** for applying and your **creativity** that might impress me! Also, attach your **resume, academic ranking, awards, and research experience**. The email and CV are recommended to be in English. If suitable, we will continue with the formal process at the school. Contacting me early can help you apply for the Hong Kong government scholarship together!
 
 I will read all your application emails, but I may not be able to respond to each one. If you don't receive a response within a month, you can try sending another one. If there is still no response, it may be that I feel we are not a good fit. 
