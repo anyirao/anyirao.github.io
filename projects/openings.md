@@ -9,16 +9,19 @@ permalink: /openings/
 Anyi Rao is an assistant professor at the Hong Kong University of Science and Technology, leading the Multimedia Creativity Lab (MMLab@HKUST) and associate directing HKUST Media Intelligence Research Center, 
 recruiting Ph.D. students (anytime), research assistants (anytime), and visiting students (anytime). 
 
-He was a postdoctoral researcher at Stanford University. 
 He studies human AI for creativity, with focuses on the understanding, editing and creation of art, media and film, aiming to build human-AI collaborative intelligence and unleash human creativity and productivity. 
 The research spans computer vision, human-computer interaction, graphics, and multimedia, with flexible directions, aiming to create wonderful things together!
 
 His work includes ControlNet, AnimateDiff, MovieNet, Virtual Studio, and IC-Light, and he has received one of the highest honors in computer vision research, the Marr Prize (Best Paper Award at ICCV). 
+He has published over 40 top academic papers, with over 13000 Google Scholar citations. 
+He also serves as a co-chair of MMSys26, UIST25, VINCI25, CVM25, UIST24 and area chair/TPC of CVPR26, ICLR26, SIGGRAPH Asia26, UIST26, SIGGRAPH Asia25.
 He organized the SIGGRAPH/CVPR/ICCV/ECCV Creative Visual Content Workshop and the SIGGRAPH Generative Models Course, curated 2025 Hong Kong HKUST AI Film Festival and 2023 Paris ShortFest AI Film Festival. 
-He also serves as a co-chair of UIST24, UIST25, VINCI25, CVM25 and area chair (TPC) of SIGGRAPH Asia25.
-He received his Ph.D. from CUHK MMLab and has conducted research at the University of Toronto, Vector Institute, Meta Reality Lab, and the University of Hong Kong. He has published over 30 top academic papers, with over 9000 Google Scholar citations. 
-He has hosted the Brown Media Innovation Research Fund, Amazon Video Research Fund, been featured in Forbes 30 Under 30 Asia 2025 List, and won the Rising Star Award at the World Artificial Intelligence Conference 2024. 
-He gave keynote at the Golden Rooster Film Festival, the Shanghai Television Magnolia Festival, was featured by Shanghai TV Financial Channel, Hong Kong Cable Television.
+He was a postdoctoral researcher at Stanford University. 
+He received his Ph.D. from CUHK MMLab and has conducted research at the University of Toronto, Vector Institute, Meta Reality Lab, and the University of Hong Kong. 
+
+
+He has been selected as Microsoft Research Asia StarTrack Scholar 2026, been featured in Forbes 30 Under 30 Asia 2025 List, won the Rising Star Award at the World Artificial Intelligence Conference 2024, 
+and hosted the Brown Media Innovation Research Fund, Amazon Video Research Fund. He gave keynote at the Golden Rooster Film Festival, the Shanghai Television Magnolia Festival, was featured by Shanghai TV Financial Channel, Hong Kong Cable Television.
 
 ### What you can gain? 👍
 
@@ -39,7 +42,8 @@ What do you need?
 ### How to apply? 📧
 
 If you are interested, please fill out this 
-[2026 Google Form](https://forms.gle/RVXjHiJxC1SzKN6x6) for 2026 intake,
+[2027 Google Form](https://forms.gle/68etSg4ywTSBasJb7) for 2027 intake,
+<!-- [2026 Google Form](https://forms.gle/RVXjHiJxC1SzKN6x6) for 2026 intake, -->
 <!-- [2025 Google Form](https://forms.gle/bxQMUzWE4J91Nnn88) for 2025 intake, -->
  and send an email to [anyirao@outlook.com](mailto:anyirao@outlook.com). The email title should be "School-Name-PhD/RA/Visiting Student." The email content can briefly describe your **motivation** for applying and your **creativity** that might impress me! Also, attach your **resume, academic ranking, awards, and research experience**. The email and CV are recommended to be in English. If suitable, we will continue with the formal process at the school. Contacting me early can help you apply for the Hong Kong government scholarship together!
 
