@@ -8,6 +8,22 @@ permalink: /publication/
 **FULL PUBLICATAION LIST**
 
 
+[Composing Concepts from Images and Videos via Concept-prompt Binding. IEEE Conference on Computer Vision and Pattern Recognition](https://github.com/refkxh/bico)\\
+Xianghao Kong, Zeyu Zhang, Yuwei Guo, Zhuoran Zhao, Songchun Zhang, **Anyi Rao**\\
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026 <span style="color:orange">*Highlight* \\
+[[Paper]](https://refkxh.github.io/BiCo_Webpage/static/pdfs/paper.pdf) [[Webpage]](https://refkxh.github.io/BiCo_Webpage/)
+
+[SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment](https://github.com/delaprada/SesaHand)\\
+Zhuoran Zhao, Xianghao Kong, Linlin Yang, Zheng Wei, Pan Hui, **Anyi Rao**\\
+International Conference on Learning Representations (**ICLR**), 2026 \\
+[[Paper]](https://arxiv.org/abs/2603.00443) [[Webpage]](https://alicezrzhao.github.io/sesahand/)
+
+[Collaposer: Transforming Photo Collections into Visual Assets for Storytelling with Collages]()\\
+Jiayi Zhou, Liwenhan Xie, Jiaju Ma, Zheng Wei, Maneesh Agrawala, Huamin Qu, **Anyi Rao**\\
+ACM Conference on Human Factors in Computing Systems (**CHI**), 2026 \\
+[[Paper]](https://arxiv.org/abs/2601.18428) [[Webpage]](https://jiayzhou.github.io/collaposer-website/)
+
+
 [CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboration]()\\
 Zheng Wei, Hongtao Wu, Lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, **Anyi Rao**\\
 User Interface Software and Technology (**UIST**), 2025 \\
@@ -27,7 +43,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024 
 [[Paper]](https://arxiv.org/abs/2311.17754) [[Webpage]](https://virtualfilmstudio.github.io/projects/cinetransfer/) 
 
 
-[Adding Conditional Control to Text-to-Image Diffusion Models]("https://arxiv.org/abs/2302.05543")\\
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)\\
 Lvmin Zhang, **Anyi Rao**, Maneesh Agrawala\\
 IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023 <span style="color:orange">*Marr Prize: Best Paper Award*\\
 [[Paper]](https://arxiv.org/abs/2302.05543) [[Webpage]](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
