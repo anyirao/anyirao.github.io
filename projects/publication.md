@@ -7,6 +7,10 @@ permalink: /publication/
 <!-- **Full Publication List** -->
 **FULL PUBLICATAION LIST**
 
+[UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://houyuanchen111.github.io/UniVidX.github.io/)\\
+Houyuan Chen, Hong Li, Xianghao Kong, Tianrui Zhu, Shaocong Xu, Weiqing Xiao, Yuwei Guo, Chongjie Ye, Lvmin Zhang, Hao Zhao, **Anyi Rao**  \\
+ACM Transactions on Graphics, (**SIGGRAPH**), 2026 \\
+[[Paper]](https://arxiv.org/abs/2605.00658) [[Webpage]](https://houyuanchen111.github.io/UniVidX.github.io/)
 
 [Composing Concepts from Images and Videos via Concept-prompt Binding. IEEE Conference on Computer Vision and Pattern Recognition](https://github.com/refkxh/bico)\\
 Xianghao Kong, Zeyu Zhang, Yuwei Guo, Zhuoran Zhao, Songchun Zhang, **Anyi Rao**\\
@@ -100,8 +104,28 @@ IEEE Transactions on Multimedia (**TMM**), 2021 \\
 
 
 
+[Simulating the Real World: A Unified Survey of Multimodal Generative Models]()\\
+Yuqi Hu, Longguang Wang, Xian Liu, Ling-Hao Chen, Yuwei Guo, Yukai Shi, Ce Liu, **Anyi Rao**, Zeyu Wang, Hui Xiong \\
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026 \\
+[[Paper]](https://arxiv.org/abs/2503.04641) [[Webpage]](https://github.com/ALEEEHU/World-Simulator)
 
 
+[Light of Normals: Unified Feature Representation for Universal Photometric Stereo]()\\
+Houyuan Chen, Hong Li, Chongjie Ye, Zhaoxi Chen, Bohan Li, Shaocong Xu, Xianda Guo, Xuhui Liu, Yikai Wang, Baochang Zhang, Satoshi Ikehata, Boxin Shi, **Anyi Rao**, Hao Zhao\\
+International Conference on Learning Representation (ICLR), 2026\\
+[[Paper]]() [[Webpage]]()
+
+
+[DataSway: Vivifying Metaphoric Visualization with Animation Clip Generation and Coordination]()\\
+Liwenhan Xie, Jiayi Zhou,  **Anyi Rao**, Huamin Qu, Xinhuan Shu \\
+ACM Conference on Designing Interactive Systems (DIS), 2026 \\
+[[Paper]]() [[Webpage]]()
+
+
+[LungSurg: A Generative AI System for Segmentation and Phase Classification in Thoracoscopic Lobectomy]()\\
+Hengrui Liang, Zeping Yan, Yudong Zhang, Keyao Dai, Hongyan Li,  **Anyi Rao**, Wei Wang, Lei Zhao, Yuchen Guo, Jianxing He\\
+MedComm Journal, 2026 \\
+[[Paper]]() [[Webpage]]()
 
 [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion]()\\
 Yujie Zhou, Jiazi Bu, Pengyang Ling, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zhang, Yuhang Cao, **Anyi Rao**, Jiaqi Wang, Li Niu\\
