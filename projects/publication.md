@@ -41,8 +41,14 @@ International Conference on Learning Representations (**ICLR**), 2025 <span styl
 
 
 
+
+<!-- 2024 -->
+<!-- 2024 -->
+<!-- 2024 -->
+
+
 [Cinematic Behavior Transfer via NeRF-based Differentiable Filming]()\\
-**Anyi Rao**, Xuekun Jiang*, Jingbo Wang, Dahua Lin, Bo Dai\\
+Xuekun Jiang*, **Anyi Rao*(co-first)**, Jingbo Wang, Dahua Lin, Bo Dai\\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024 \\
 [[Paper]](https://arxiv.org/abs/2311.17754) [[Webpage]](https://virtualfilmstudio.github.io/projects/cinetransfer/) 
 
@@ -103,8 +109,13 @@ IEEE Transactions on Multimedia (**TMM**), 2021 \\
 
 
 
+<!-- 2026 Collaboration -->
+<!-- 2026 Collaboration -->
+<!-- 2026 Collaboration -->
 
-[Simulating the Real World: A Unified Survey of Multimodal Generative Models]()\\
+
+
+[Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://ieeexplore.ieee.org/abstract/document/11509284)\\
 Yuqi Hu, Longguang Wang, Xian Liu, Ling-Hao Chen, Yuwei Guo, Yukai Shi, Ce Liu, **Anyi Rao**, Zeyu Wang, Hui Xiong \\
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026 \\
 [[Paper]](https://arxiv.org/abs/2503.04641) [[Webpage]](https://github.com/ALEEEHU/World-Simulator)
@@ -118,8 +129,8 @@ International Conference on Learning Representation (ICLR), 2026\\
 
 [DataSway: Vivifying Metaphoric Visualization with Animation Clip Generation and Coordination]()\\
 Liwenhan Xie, Jiayi Zhou,  **Anyi Rao**, Huamin Qu, Xinhuan Shu \\
-ACM Conference on Designing Interactive Systems (DIS), 2026 \\
-[[Paper]]() [[Webpage]]()
+ACM Conference on Designing Interactive Systems (DIS), 2026 <span style="color:orange">*Best Paper Award*\\
+[[Paper]](https://arxiv.org/abs/2507.22051) [[Webpage]](https://shellywhen.github.io/projects/DataSway)
 
 
 [LungSurg: A Generative AI System for Segmentation and Phase Classification in Thoracoscopic Lobectomy]()\\
@@ -141,8 +152,21 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 
 [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning]()\\
 Yuwei Guo, Ceyuan Yang, **Anyi Rao**, Zhengyang Liang, Yaohui Wang, Yu Qiao, Maneesh Agrawala, Dahua Lin, Bo Dai
 \\
-International Conference on Learning Representations (**ICLR**), 2024 \\
+International Conference on Learning Representations (**ICLR**), 2024 <span style="color:orange">*Spotlight*\\
 [[Paper]](https://arxiv.org/abs/2307.04725) [[Webpage]](https://github.com/guoyww/AnimateDiff) [[Code]](https://github.com/guoyww/AnimateDiff)
+
+
+[SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models]()\\
+Yuwei Guo, Ceyuan Yang, **Anyi Rao**, Maneesh Agrawala, Dahua Lin, Bo Dai\\
+European Conference on Computer Vision (**ECCV**), 2024 \\
+[[Paper]](https://arxiv.org/abs/2311.16933) [[Webpage]](https://guoyww.github.io/projects/SparseCtrl/) 
+
+
+
+<!-- 2023 Collaboration-->
+<!-- 2023 Collaboration-->
+<!-- 2023 Collaboration-->
+
 
 [Automated Conversion of Music Videos into Lyric Videos]("https://arxiv.org/abs/2308.14922")\\
 Jiaju Ma, **Anyi Rao**, Li-Yi Wei, Rubaiat Habib Kazi, Hijung Valentina Shin, Maneesh Agrawala\\
@@ -154,9 +178,6 @@ User Interface Software and Technology (**UIST**), 2023 \\
 Yujie Zhou, Wenwen Qiang, **Anyi Rao**, Ning Lin, Bing Su, Jiaqi Wang\\
 ACM International Conference on Multimedia (**ACM MM**), 2023 \\
 [[Paper]](https://arxiv.org/abs/2308.03950) [[Webpage]](https://github.com/YujieOuO/SMIE)
-
-
-
 
 
 [HireVAE: An Online and Adaptive Factor Model Based on Hierarchical and Regime-Switch VAE]()\\
@@ -183,7 +204,6 @@ European Conference on Computer Vision (**ECCV**), 2022 \\
 Xueyi Liu, Xiaomeng Xu, **Anyi Rao**, Chuang Gan, Li Yi \\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 \\
 [[Paper]](https://arxiv.org/abs/2203.06558) [[Webpage]](https://autogpart.github.io/) [[Code]](https://github.com/Meowuu7/AutoGPart)
-
 
 
 
