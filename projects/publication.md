@@ -43,8 +43,8 @@ International Conference on Learning Representations (**ICLR**), 2025 <span styl
 
 
 <!-- 2024 -->
-<!-- 2024 -->
-<!-- 2024 -->
+------------ 
+<br>
 
 
 [Cinematic Behavior Transfer via NeRF-based Differentiable Filming]()\\
@@ -110,8 +110,9 @@ IEEE Transactions on Multimedia (**TMM**), 2021 \\
 
 
 <!-- 2026 Collaboration -->
-<!-- 2026 Collaboration -->
-<!-- 2026 Collaboration -->
+------------ 
+<br>
+
 
 
 
@@ -163,9 +164,11 @@ European Conference on Computer Vision (**ECCV**), 2024 \\
 
 
 
-<!-- 2023 Collaboration-->
-<!-- 2023 Collaboration-->
-<!-- 2023 Collaboration-->
+
+<!-- 2023 Collaboration -->
+------------ 
+<br>
+
 
 
 [Automated Conversion of Music Videos into Lyric Videos]("https://arxiv.org/abs/2308.14922")\\
