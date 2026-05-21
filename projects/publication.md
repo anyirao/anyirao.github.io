@@ -124,13 +124,13 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026
 
 [Light of Normals: Unified Feature Representation for Universal Photometric Stereo]()\\
 Houyuan Chen, Hong Li, Chongjie Ye, Zhaoxi Chen, Bohan Li, Shaocong Xu, Xianda Guo, Xuhui Liu, Yikai Wang, Baochang Zhang, Satoshi Ikehata, Boxin Shi, **Anyi Rao**, Hao Zhao\\
-International Conference on Learning Representation (ICLR), 2026\\
+International Conference on Learning Representation (**ICLR**), 2026\\
 [[Paper]]() [[Webpage]]()
 
 
 [DataSway: Vivifying Metaphoric Visualization with Animation Clip Generation and Coordination]()\\
 Liwenhan Xie, Jiayi Zhou,  **Anyi Rao**, Huamin Qu, Xinhuan Shu \\
-ACM Conference on Designing Interactive Systems (DIS), 2026 <span style="color:orange">*Best Paper Award*\\
+ACM Conference on Designing Interactive Systems (**DIS**), 2026 <span style="color:orange">*Best Paper Award*\\
 [[Paper]](https://arxiv.org/abs/2507.22051) [[Webpage]](https://shellywhen.github.io/projects/DataSway)
 
 
